@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+  font-family: 'Rubik', sans-serif;
+}
 .blue-bg {
   background-image: url(../src/images/pattern-bg.png);
   width: 100%;
