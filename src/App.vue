@@ -5,10 +5,10 @@ import Results from './components/Results.vue'
 
 <template>
   <div class="blue-bg">
-    <div class="py-5">
+    <div class="py-8">
       <h2 class="text-center font-semibold text-3xl text-white">IP Address Tracker</h2>
       <IpInputField />
     </div>
-    <results />
+    <Results />
   </div>
 </template>
